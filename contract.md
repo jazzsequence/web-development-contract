@@ -1,6 +1,6 @@
 # SOFTWARE DEVELOPMENT AGREEMENT
 
-**Identification of the Parties** This Agreement is made between {{CUSTOMER NAME}} (the "Customer") and {{DEVELOPER NAME}} (the "Developer").
+**Identification of the Parties** This Agreement is made between {{CUSTOMER NAME}} (the "Customer") and Arcane Palette Creative Design (the "Developer").
 
 Customer desires to retain Developer as an independent contractor to develop the software (the "Software") described in the Development Plan attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow. 
 
@@ -10,15 +10,13 @@ Customer desires to retain Developer as an independent contractor to develop the
 
    (a) detailed specifications for the Software;
 
-   (b) a listing of items to be delivered to Customer ("Deliverables");
+   (b) a listing of items to be delivered to Customer ("Deliverables"); and
 
-   (c) a delivery schedule containing a delivery date for each Deliverable; and
-   
-   (d) a payment schedule detailing the amount and time of Developer's compensation.
+   (c) a delivery schedule containing a delivery date for each Deliverable.
 
 2. **Payment** The total contract price shall be detailed in the Development Plan. Customer shall pay the Developer fifty percent (50%) of the total upon commencement, and the remainder within 14 days upon project completion. Late payments by Customer shall be subject to late penalty fees of 10% per month from the due date until the amount is paid.
 
-3. **Rights** Customer retains all rights to any graphic assets created under this Agreement by the Developer. Customer acknowledges and agrees that enhancements, bug fixes and other custom developments produced under the scope of this agreement will be subject to release under the GNU Public License v2, or another compatible and relevant open-source license.
+3. **Rights** Customer retains all rights to any graphic assets created under this Agreement by the Developer. Customer acknowledges and agrees that enhancements, bug fixes and other custom developments produced under the scope of this agreement will be subject to release under the GNU Public License v3, or another compatible and relevant open-source license.
 
 4. **Changes in Project Scope** If at any time following acceptance this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the Development Plan, Customer shall submit to Developer a written proposal specifying the desired changes.
 
@@ -34,7 +32,7 @@ Customer desires to retain Developer as an independent contractor to develop the
 
 	Any correspondence and/or payments may be sent to the Developer from the Customer at the address:
 
-	{{DEVELOPER'S ADDRESS}}
+	chris@arcanepalette.com
 
 
 **Signatures** This agreement must be signed and copied to both parties.
