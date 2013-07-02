@@ -21,6 +21,9 @@ This document serves as the "Development Plan" for regular, ongoing maintenance 
 
 6. **Minor code changes and updates** Developer agrees to perform minor code adjustments and "tweaks", as needed. Updates are to be no more than 1 hour total development time. Further updates or changes deemed necessary will require a separate Development Plan.
 
-7. **Payment** Updates and Maintenance will be billed at the standard hourly rate of $75/hour. Invoices will be sent once a month, on the third Thursday of the month.
+7. **Payment** Updates and Maintenance will be billed at the standard hourly rate of $75/hour. Invoices will be sent once a month, on the third Thursday of the month. Payments are expected to be received within 30 days of the invoice being sent.
 
-8. **Stock images** Customer is responsible for any stock photography required for the site. Developer agrees to advise and implement stock imagery as necessary.
+8. **Termination of services** If payment is not received within 90 days, this contract is assumed to be terminated and no further update services will be performed by the Developer. Customer then has the option to pay the balance, in full, if they wish to retain or resume site maintenance and update services.
+
+
+9. **Stock images** Customer is responsible for any stock photography required for the site. Developer agrees to advise and implement stock imagery as necessary.
