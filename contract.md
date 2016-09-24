@@ -1,6 +1,6 @@
 # SOFTWARE DEVELOPMENT AGREEMENT
 
-**Identification of the Parties** This Agreement is made between {{CUSTOMER NAME}} (the "Customer") and Arcane Palette Creative Design (the "Developer").
+**Identification of the Parties** This Agreement is made between {{CUSTOMER NAME}} (the "Customer") and Chris Reynolds (the "Developer").
 
 Customer desires to retain Developer as an independent contractor to develop the software (the "Software") described in the Development Plan attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow. 
 
@@ -32,7 +32,7 @@ Customer desires to retain Developer as an independent contractor to develop the
 
 	Any correspondence and/or payments may be sent to the Developer from the Customer at the address:
 
-	chris@arcanepalette.com
+	me@chrisreynolds.io
 
 
 **Signatures** This agreement must be signed and copied to both parties.
